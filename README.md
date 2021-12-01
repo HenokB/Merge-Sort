@@ -27,3 +27,20 @@ Merge sort's most common implementation does not sort in place;[8] therefore, th
 
 [Source](https://en.wikipedia.org/wiki/Merge_sort)
 
+Group Members
+Henok Biadglign
+Hailemariam Desalegn
+Biniyam Tamene
+Kibruyisfa Dinkayehu
+Bitanya Gizate
+Sossna Zerfu
+
+|      Name               | Id Number       |
+| ----------------------  | --------------- |
+| 1.Henok Biadglign       | CNCS/UR15201/12 |
+| 2.Hailemariam Desalegn  | CNCS/UR15176/12 |
+| 3.Biniyam Tamene        | CNCS/UR15014/12 |
+| 4.Bitanya Gizate        | CNCS/UR15201/12 |
+| 5.Kibruyisfa Dinkayehu  | CNCS/UR15239/12 |
+| 6.Sossna Zerfu          | CNCS/UR15201/12 |
+
