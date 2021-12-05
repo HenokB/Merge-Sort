@@ -51,7 +51,7 @@ It is the best Sorting technique used for sorting Linked Lists.
 
 
 
-|      Name               | Id Number       |
+|      Name               | ID Number       |
 | ----------------------  | --------------- |
 | 1.Henok Biadglign       | CNCS/UR15201/12 |
 | 2.Hailemariam Desalegn  | CNCS/UR15176/12 |
