@@ -1,4 +1,4 @@
-![Image](https://gifimage.net/wp-content/uploads/2018/11/merge-sort-animation-gif-5.gif)
+![Image](https://th.bing.com/th/id/R.a29c0dd0186d1f8cef3c5ebdedf3e5a3?rik=yN%2bMf%2bXFsza67Q&riu=http%3a%2f%2fejklike.github.io%2fassets%2f20170301%2fmergesort.gif&ehk=YHUWa6IpDR8jnJSkvWw7ANRth1sehhdUxeswtLo%2f6EA%3d&risl=&pid=ImgRaw&r=0)
 # Merge-Sort
 In computer science, merge sort (also commonly spelled as mergesort) is an efficient, general-purpose, and comparison-based sorting algorithm. Most implementations produce a stable sort, which means that the order of equal elements is the same in the input and output. Merge sort is a divide and conquer algorithm that was invented by John von Neumann in 1945. A detailed description and analysis of bottom-up merge sort appeared in a report by Goldstine and von Neumann as early as 1948.
 
