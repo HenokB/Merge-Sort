@@ -51,6 +51,8 @@ Time complexity of Merge Sort is O(n*Log n) in all the 3 cases (worst, average a
 It is the best Sorting technique used for sorting Linked Lists.
 
 # C++ Code
+```cpp
+
 
 #include<iostream>
 using namespace std;
@@ -119,6 +121,7 @@ int main() {
    cout << "Array after Sorting: ";
    display(arr, n);
 }
+```
 
 
 
