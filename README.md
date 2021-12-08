@@ -122,6 +122,12 @@ int main() {
    cout << "Array after Sorting: ";
    display(arr, n);
 }
+OutPut Example
+Enter the number of elements: 5
+Enter elements separted with space or new line:
+3 2 1 9 -1
+Array before Sorting: 3 2 1 9 -1
+Array after Sorting: -1 1 2 3 9
 ```
 
 
